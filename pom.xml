@@ -23,7 +23,8 @@
 	</developers>
     <modules>
         <module>eureka</module>
-    </modules>
+		<module>system</module>
+	</modules>
     <scm>
 		<connection/>
 		<developerConnection/>
